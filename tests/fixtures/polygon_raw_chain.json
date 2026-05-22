@@ -1,0 +1,88 @@
+{
+  "results": [
+    {
+      "details": {"strike_price": 540, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 0.0, "ask": 0.0}, "last_trade": {"price": 0.0}, "volume": 100},
+      "open_interest": 200,
+      "implied_volatility": 0.18,
+      "greeks": {"delta": 0.50, "gamma": 0.01, "theta": -0.05, "vega": 0.10},
+      "underlying_asset": {"price": 540.0}
+    },
+    {
+      "details": {"strike_price": 541, "expiration_date": "2026-06-19", "contract_type": "put"},
+      "day": {"last_quote": {"bid": 7.55, "ask": 6.90}, "last_trade": {"price": 7.20}, "volume": 50},
+      "open_interest": 300,
+      "implied_volatility": 0.20,
+      "greeks": {"delta": -0.48, "gamma": 0.02, "theta": -0.06, "vega": 0.11}
+    },
+    {
+      "details": {"strike_price": 542, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 2.10, "ask": 2.15}, "last_trade": {"price": 2.12}, "volume": 80},
+      "open_interest": 400,
+      "implied_volatility": 0.22,
+      "greeks": {"delta": 1.8, "gamma": 0.01, "theta": -0.03, "vega": 0.09}
+    },
+    {
+      "details": {"strike_price": 543, "expiration_date": "2026-06-19", "contract_type": "put"},
+      "day": {"last_quote": {"bid": 0.0, "ask": 1.20}, "last_trade": {"price": 1.10}, "volume": 60},
+      "open_interest": 250,
+      "implied_volatility": 0.21,
+      "greeks": {"delta": -0.35, "gamma": 0.02, "theta": -0.04, "vega": 0.10}
+    },
+    {
+      "details": {"strike_price": 544, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": "—", "ask": 1.50}, "last_trade": {"price": 1.45}, "volume": 40},
+      "open_interest": 220,
+      "implied_volatility": 0.19,
+      "greeks": {"delta": 0.32, "gamma": 0.01, "theta": -0.03, "vega": 0.08}
+    },
+    {
+      "details": {"strike_price": 545, "expiration_date": "2026-06-19", "contract_type": "put"},
+      "day": {"last_quote": {"bid": 0.80, "ask": 0.85}, "last_trade": {"price": 0.82}, "volume": 0},
+      "open_interest": 0,
+      "implied_volatility": 0.18,
+      "greeks": {"delta": -0.25, "gamma": 0.01, "theta": -0.02, "vega": 0.07}
+    },
+    {
+      "details": {"strike_price": 546, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 1.10, "ask": 1.15}, "last_trade": {"price": 1.12}, "volume": 75},
+      "open_interest": 310,
+      "greeks": null
+    },
+    {
+      "details": {"strike_price": 540, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 0.50, "ask": 5.00}, "last_trade": {"price": 2.50}, "volume": 30},
+      "open_interest": 150,
+      "implied_volatility": 0.25,
+      "greeks": {"delta": 0.45, "gamma": 0.01, "theta": -0.03, "vega": 0.10}
+    },
+    {
+      "details": {"strike_price": 538, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 3.20, "ask": 3.30}, "last_trade": {"price": 3.25}, "volume": 120},
+      "open_interest": 500,
+      "implied_volatility": 0.21,
+      "greeks": {"delta": 0.62, "gamma": 0.02, "theta": -0.04, "vega": 0.11}
+    },
+    {
+      "details": {"strike_price": 539, "expiration_date": "2026-06-19", "contract_type": "put"},
+      "day": {"last_quote": {"bid": 2.80, "ask": 2.90}, "last_trade": {"price": 2.85}, "volume": 90},
+      "open_interest": 420,
+      "implied_volatility": 0.20,
+      "greeks": {"delta": 0.38, "gamma": 0.02, "theta": -0.04, "vega": 0.10}
+    },
+    {
+      "details": {"strike_price": 541, "expiration_date": "2026-06-19", "contract_type": "call"},
+      "day": {"last_quote": {"bid": 1.90, "ask": 2.00}, "last_trade": {"price": 1.95}, "volume": 110},
+      "open_interest": 480,
+      "implied_volatility": 0.19,
+      "greeks": {"delta": 0.48, "gamma": 0.02, "theta": -0.04, "vega": 0.10}
+    },
+    {
+      "details": {"strike_price": 542, "expiration_date": "2026-06-19", "contract_type": "put"},
+      "day": {"last_quote": {"bid": 1.50, "ask": 1.60}, "last_trade": {"price": 1.55}, "volume": 70},
+      "open_interest": 360,
+      "implied_volatility": 0.22,
+      "greeks": {"delta": -0.42, "gamma": 0.02, "theta": 0.05, "vega": 0.10}
+    }
+  ]
+}
