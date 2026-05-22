@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "thinchain"
-version = "0.1.0"
+version = "0.1.1"
 description = "MCP server that sanitizes bad broker data and compresses options chains 95% for AI trading agents."
 readme = "README.md"
 license = {text = "MIT"}

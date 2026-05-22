@@ -1,17 +1,17 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.snipmcp/thinchain",
+  "name": "io.github.SnipMCP/thinchain",
   "description": "MCP server that sanitizes bad broker data and compresses options chains 95% for AI trading agents.",
   "repository": {
     "url": "https://github.com/SnipMCP/thinchain",
     "source": "github"
   },
-  "version": "0.1.0",
+  "version": "0.1.1",
   "packages": [
     {
       "registryType": "pypi",
       "identifier": "thinchain",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "transport": { "type": "stdio" }
     }
   ]

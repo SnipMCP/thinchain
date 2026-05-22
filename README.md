@@ -1,4 +1,4 @@
-<!-- mcp-name: io.github.snipmcp/thinchain -->
+<!-- mcp-name: io.github.SnipMCP/thinchain -->
 
 # ThinChain
 
