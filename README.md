@@ -4,6 +4,8 @@ The catalytic converter between raw broker data and your AI trading agent.
 
 **Battle-tested.** Sanitization logic extracted from a production options trading app. Handles every bad tick Tradier has thrown at us in production.
 
+![ThinChain Demo](demo/thinchain_demo.gif)
+
 ## ☁️ Moving to production?
 
 The open-source server runs locally with your own API keys.
