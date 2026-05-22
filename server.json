@@ -1,0 +1,15 @@
+{
+  "mcpName": "io.github.snipmcp/thinchain",
+  "displayName": "ThinChain",
+  "description": "MCP server that sanitizes bad broker data and compresses options chains 95% for AI trading agents.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SnipMCP/thinchain.git"
+  },
+  "packages": [
+    {
+      "type": "pip",
+      "name": "thinchain"
+    }
+  ]
+}

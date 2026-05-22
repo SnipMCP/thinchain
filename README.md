@@ -1,3 +1,5 @@
+<!-- mcp-name: io.github.snipmcp/thinchain -->
+
 # ThinChain
 
 The catalytic converter between raw broker data and your AI trading agent.
